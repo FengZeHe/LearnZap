@@ -1,0 +1,4 @@
+{"level":"debug","ts":1682672958.907199,"msg":"Trying to hit GET request for www.baidu.com"}
+{"level":"error","ts":1682672958.9076228,"msg":"Error fetching URL www.baidu.com : Error = Get \"www.baidu.com\": unsupported protocol scheme \"\""}
+{"level":"debug","ts":1682672958.9076428,"msg":"Trying to hit GET request for https://www.baidu.com"}
+{"level":"info","ts":1682672959.292187,"msg":"Success! statusCode = 200 OK for URL https://www.baidu.com"}
