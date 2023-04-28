@@ -1,0 +1,4 @@
+2023/04/28 11:33:50 Error fetching url www.baidu.com : Get "www.baidu.com": unsupported protocol scheme ""
+2023/04/28 11:33:51 Status Code for https://www.baidu.com : 200 OK
+2023/04/28 11:35:08 Error fetching url www.baidu.com : Get "www.baidu.com": unsupported protocol scheme ""
+2023/04/28 11:35:08 Status Code for https://www.baidu.com : 200 OK
